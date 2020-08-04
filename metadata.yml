@@ -1,0 +1,14 @@
+---
+:id: 23945728
+:submitters:
+- :name: Tom Zu
+  :email: b_zu@ucsb.edu
+- :name: Quansen Wang
+  :email: quansen@umail.ucsb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-05 03:51:42.280537000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-04 19:51:42.280537000 Z
+:status: processed
+:score: 100.0
